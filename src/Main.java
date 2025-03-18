@@ -1,10 +1,9 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
-
+        //imao sam nekoliko pokusaja, al sam probao sa integerom samo, jel mi je malo sa doublom bili previse, ovo je sto sam napravio
         Scanner unos = new Scanner(System.in);
         System.out.println("iznos za vratiti : ");
 
